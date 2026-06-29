@@ -9,7 +9,7 @@ export default function FiverrPortfolioWebsite() {
         live: "https://landscaping-website-bp3lll0qu-garcesd98s-projects.vercel.app/",
       },
       {
-        title: "Personal Portfolio Website",
+        title: "AI Productivity SaaS Landing Page",
         description:
           "A modern portfolio with responsive navigation, smooth scrolling, and mobile-friendly design.",
         tech: ["HTML", "CSS", "JavaScript"],
