@@ -12,7 +12,7 @@ export default function FiverrPortfolioWebsite() {
         title: "AI Productivity SaaS Landing Page",
         description:
           "A modern portfolio with responsive navigation, smooth scrolling, and mobile-friendly design.",
-        tech: ["HTML", "CSS", "JavaScript"],
+        tech: ["React", "Javascript", "CSS", "Vite"],
       },
       {
         title: "Business Landing Page",
