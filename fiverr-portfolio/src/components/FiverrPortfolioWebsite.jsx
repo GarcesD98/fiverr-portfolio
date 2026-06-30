@@ -13,6 +13,7 @@ export default function FiverrPortfolioWebsite() {
         description:
           "A modern portfolio with responsive navigation, smooth scrolling, and mobile-friendly design.",
         tech: ["React", "Javascript", "CSS", "Vite"],
+        live: "https://studyflow-rck1zn9dh-garcesd98s-projects.vercel.app/",
       },
       {
         title: "Business Landing Page",
